@@ -24,10 +24,12 @@ O projeto foi desenvolvido puramente com tecnologias web fundamentais (Vanilla S
 - **JavaScript (Vanilla):** Lógica do carrossel, manipulação de classes dinâmicas e controlo de fluxo do slider.
 
 ## 📸 Demonstração
+<div align="">
+  <img src="https://github.com/user-attachments/assets/ba9c2c2e-83d6-45cf-8b9d-293c03a349c8" alt="Screenshot do Projeto ClassicSport" width="500">
+</div>
 
-*(Dica: Após fazer o deploy, tire um print do site e coloque o link da imagem aqui ou adicione o link direto do site abaixo)*
+ 🔗 [**Acesar o Projeto ao vivo**](https://gabrielssduartedev.github.io/classic-sport-ecommerce/)
 
-🔗 [**Aceder ao Projeto ao Vivo**](https://seu-usuario.github.io/classic-sport-ecommerce/)
 
 ## 🏗️ Como Executar
 
