@@ -34,3 +34,20 @@ O projeto foi desenvolvido puramente com tecnologias web fundamentais (Vanilla S
 1. Clone o repositório:
    ```bash
    git clone [https://github.com/seu-usuario/classic-sport-ecommerce.git](https://github.com/seu-usuario/classic-sport-ecommerce.git)
+   
+## 🚀 Melhorias Futuras (Roadmap de Evolução)
+
+Como este é um projeto focado em fundamentos, identifiquei pontos de melhoria que pretendo implementar em versões futuras para elevar a qualidade da engenharia do software:
+
+### 🎨 Interface e UX
+- **Responsividade Total:** Adaptar o layout para dispositivos móveis (Mobile-first).
+- **Acessibilidade (A11y):** Implementar suporte para leitores de tela e navegação via teclado no slider.
+- **Otimização de Assets:** Converter as imagens para formatos modernos (WebP) para reduzir o tempo de carregamento.
+
+### ⚙️ Engenharia e Funcionalidades
+- **Refatoração JS:** Migrar a lógica para módulos ES6, separando a gestão de estado da manipulação de interface.
+- **Persistência:** Adicionar um carrinho de compras funcional utilizando `localStorage`.
+- **Performance:** Substituir as animações baseadas em `left/top` por `transform: translate3d` para garantir 60fps em todos os browsers.
+
+### 🛠️ Tooling
+- **Modernização:** Migrar o projeto para **React + Tailwind CSS** para facilitar a manutenção e escalabilidade dos componentes.
